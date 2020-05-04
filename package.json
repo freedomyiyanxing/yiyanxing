@@ -1,0 +1,13 @@
+{
+  "name": "freedom.yi",
+  "version": "1.0.0",
+  "description": "个人博客",
+  "main": "index.js",
+  "author": "freedom.yi <851989962freedom.yi@gmail.com>",
+  "license": "SPDX",
+  "url": "git@github.com:freedomyiyanxing/yiyanxing-ssr.git",
+  "devDependencies": {
+    "webpack": "^4.43.0",
+    "webpack-cli": "^3.3.11"
+  }
+}
